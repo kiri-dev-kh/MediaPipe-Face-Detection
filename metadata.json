@@ -1,0 +1,7 @@
+{
+  "name": "Copy of VisionFace - Real-Time Face Detection",
+  "description": "A high-performance client-side face detection system using MediaPipe and React, featuring real-time tracking, keypoints, and responsive overlays.",
+  "requestFramePermissions": [
+    "camera"
+  ]
+}
